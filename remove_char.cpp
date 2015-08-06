@@ -1,5 +1,5 @@
 //
-//  test.cpp
+//  remove_char.cpp
 //
 //  Created by q00148943 on 6/6/15.
 //  Copyright (c) 2015 q00148943. All rights reserved.
